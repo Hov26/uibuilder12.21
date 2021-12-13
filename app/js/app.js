@@ -41,6 +41,7 @@ $(document).ready(function () {
   //       },
   //     },
   //   });
+  // append arrow to fav div
   //   var arrows = $(".owl-nav");
   //   $(".for-arrows").append(arrows);
   // Open mobile menu
